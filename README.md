@@ -27,6 +27,7 @@ If the app is left running for roughly 24 hours, it will self-terminate.
   
 # Installation and Use
 ---
+(CURRENTLY THE PACKAGED APP SEEMS TO ONLY RUN WHEN THE DMG IS PACKAGED ON THE SAME MACHINE, SO THE BELOW INSTRUCTIONS MAY NOT WORK. FOR NOW THE ONLY WAY I'VE FOUND TO INSTALL PACKAGE ON OTHER MACHINES IS TO CLONE THE REPO AND RUN THE BUILD SCRIPT AFTER INSTALLING THE PYINSTALLER AND CREATE-DMG UTILITIES)
 - Download and open [20-20-20.dmg](dist/20-20-20.dmg)
 - Copy the 20-20-20.app to your applications folder when prompted
 - Choose to 'Keep in dock' if desired
